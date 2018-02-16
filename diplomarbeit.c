@@ -2,7 +2,7 @@
 /*n13akaibe:
 Diplomarbeit Trainingsteil ANN
 Benedikt Kaiser
-gcc -o da da.c
+gcc -o da diplomarbeit.c
 ./da
 
 */
